@@ -13,5 +13,5 @@ print yd.translate('good job')
 #dictionary
 print yd.translate('github', translate=False)
 
-print jd.last_result
+print yd.last_result
 ```
